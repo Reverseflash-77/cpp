@@ -9,7 +9,7 @@ int main()
      }
      else
      {
-         std::cout << "You do not have a fever. 🕺"
+         std::cout << "You do not have a fever. 🕺";
      }
 
 }
