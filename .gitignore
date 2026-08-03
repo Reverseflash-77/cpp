@@ -1,0 +1,15 @@
+# Compiled executables
+coin
+fever
+fortune_cookie
+levels
+voting
+
+# Default GCC output
+a.out
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
