@@ -1,4 +1,5 @@
 # Compiled executables
+
 coin
 fever
 fortune_cookie
@@ -28,11 +29,10 @@ old_money_and_new_money
 pet
 restaurants
 
+bank
+classic_cars
+pet_rescue_app
+student
+
 # Default GCC output
 a.out
-
-# VS Code
-.vscode/
-
-# macOS
-.DS_Store
