@@ -34,5 +34,8 @@ classic_cars
 pet_rescue_app
 student
 
+memory_address
+pointers
+
 # Default GCC output
 a.out
