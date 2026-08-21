@@ -42,3 +42,4 @@ pointers
 nullptr
 # Default GCC output
 a.out
+defaultArgs
